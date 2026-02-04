@@ -1,0 +1,12 @@
+# Copy Agent
+
+## Description
+This agent automates text extraction (copy-paste) from webpages using Puppeteer and other web scraping techniques.
+
+## Setup Instructions
+- Clone the repository
+- Install the dependencies: `npm install`
+- Run the agent: `npm start`
+
+## Usage
+- Configure the agent to select target text from specified URLs
